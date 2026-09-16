@@ -25,7 +25,7 @@
 ![CSS](https://img.shields.io/badge/CSS-0a0a0d?style=flat-square&logo=css&logoColor=663399)
 ![CSS Modules](https://img.shields.io/badge/CSS_Modules-0a0a0d?style=flat-square&logo=cssmodules&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-0a0a0d?style=flat-square&logo=sass&logoColor=CC6699)
-![a11y](https://img.shields.io/badge/♿_a11y-0a0a0d?style=flat-square)
+![Accessibility](https://img.shields.io/badge/Accessibility-0a0a0d?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNEZDM0Y3IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAuNSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iNi42IiByPSIxLjQiIGZpbGw9IiM0RkMzRjciIHN0cm9rZT0ibm9uZSIvPjxwYXRoIGQ9Ik02LjUgOS41IDEyIDEwLjZsNS41LTEuMU0xMiAxMC42djMuNG0wIDAtMi42IDQuNk0xMiAxNGwyLjYgNC42Ii8+PC9zdmc+Cg==)
 ![Figma](https://img.shields.io/badge/Figma-0a0a0d?style=flat-square&logo=figma&logoColor=F24E1E)
 ![Claude](https://img.shields.io/badge/Claude-0a0a0d?style=flat-square&logo=claude&logoColor=D97757)
 
