@@ -1,5 +1,3 @@
-<h1 align="center">Интерфейсы, которыми приятно пользоваться ✨</h1>
-
 <p align="center">
   <b>Фронтенд-разработчик · React и TypeScript</b><br>
   Два года вёрстки в команде: от макета до работающего продукта.<br>
@@ -22,9 +20,14 @@
 ![Vite](https://img.shields.io/badge/Vite-0a0a0d?style=flat-square&logo=vite&logoColor=646CFF)
 ![React Router](https://img.shields.io/badge/React_Router-0a0a0d?style=flat-square&logo=reactrouter&logoColor=CA4245)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-0a0a0d?style=flat-square&logo=reacthookform&logoColor=EC5990)
-![Zod](https://img.shields.io/badge/Zod-0a0a0d?style=flat-square&logo=zod&logoColor=3E67B1)
+![Zustand](https://img.shields.io/badge/🐻_Zustand-0a0a0d?style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-0a0a0d?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-0a0a0d?style=flat-square&logo=css&logoColor=663399)
 ![CSS Modules](https://img.shields.io/badge/CSS_Modules-0a0a0d?style=flat-square&logo=cssmodules&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-0a0a0d?style=flat-square&logo=sass&logoColor=CC6699)
+![a11y](https://img.shields.io/badge/♿_a11y-0a0a0d?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-0a0a0d?style=flat-square&logo=figma&logoColor=F24E1E)
+![Claude](https://img.shields.io/badge/Claude-0a0a0d?style=flat-square&logo=claude&logoColor=D97757)
 
 ---
 
