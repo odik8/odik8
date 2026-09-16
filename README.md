@@ -40,5 +40,6 @@
 ---
 
 <p align="center">
-  <i>Открыт к предложениям о работе — проще всего написать в <a href="https://t.me/odysseys_7098">Telegram</a>.</i>
+  <i>Открыт к предложениям о работе — пишите в <a href="https://t.me/odysseys_7098">Telegram</a> или на почту</i><br>
+  📫 <a href="mailto:odissey.meltonyan@gmail.com">odissey.meltonyan@gmail.com</a>
 </p>
